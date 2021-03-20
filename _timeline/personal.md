@@ -10,5 +10,6 @@ events:
   - apple-macintosh-1984
   - apple-newton
   - windows95
+  - chromebook
 ---
 
