@@ -15,7 +15,12 @@ events:
   - windows95
   - winamp
   - media-scrub
+<<<<<<< HEAD
   - chromebook
   - walkman
+=======
+  - walkman
+  - chromebook
+>>>>>>> 53c2819ca2989b44341e380b2b4a7b70a40403d7
 ---
 
