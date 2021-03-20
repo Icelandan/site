@@ -14,5 +14,7 @@ events:
   - olpc-classroom
   - apple-iphone
   - wearable
+  - walkman
+  - chromebook
 ---
 
