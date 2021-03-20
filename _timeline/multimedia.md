@@ -17,8 +17,5 @@ events:
   - media-scrub
   - chromebook
   - walkman
-=======
-  - walkman
-  - chromebook
 ---
 
