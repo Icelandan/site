@@ -7,6 +7,7 @@ events:
   - pdp11-tty-unix 
   - microsoft-basic 
   - ms-dos 
+  - macos
   - windows1 
   - oberon 
   - linux 
